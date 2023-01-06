@@ -29,8 +29,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 
-<br><br>
-
 ## ⚙️ &nbsp;GitHub Analytics
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eduardolimacesl&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eduardolimacesl&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Eduardolimacesl&theme=nord_dark) |
