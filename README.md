@@ -1,5 +1,5 @@
-<img align="right" height="590em" src="#"/>
-<h1 align="left">Hi <img src="./assets/code.gif" width="30px">, I'm Carlos Eduardo</h1>
+<img align="right" height="590em" src="./assets/code.gif"/>
+<h1 align="left">Hi :wave:, I'm Carlos Eduardo</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Eduardolimacesl&color=blue" alt="Profile views" /> </p>
 
 <h4 align="center">
