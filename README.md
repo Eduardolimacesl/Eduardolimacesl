@@ -1,6 +1,6 @@
-<p>
+<div >
   <img align="center" height="300em" src="./assets/code.gif"/>
-</p>
+</div>
 <h1 align="left">Hi :wave:, I'm Carlos Eduardo</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Eduardolimacesl&color=blue" alt="Profile views" /> </p>
 
@@ -12,6 +12,7 @@
   [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC5Zh9bzMxSB5u0sUfkq03tw)
   [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]()
   [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]()
+  [![LinkTree Badge](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://eduardolimacesl.github.io/devlinks/)
   
 </h4>
 <br>
