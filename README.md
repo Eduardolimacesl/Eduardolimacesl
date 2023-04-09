@@ -1,6 +1,6 @@
 <img align="right" height="590em" src="#"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Carlos Eduardo</h1>
-<p align="left"> <img src="./assets/code.gif" alt="Profile views" /> </p>
+<h1 align="left">Hi <img src="./assets/code.gif" width="30px">, I'm Carlos Eduardo</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Eduardolimacesl&color=blue" alt="Profile views" /> </p>
 
 <h4 align="center">
 
@@ -10,7 +10,7 @@
   [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC5Zh9bzMxSB5u0sUfkq03tw)
   [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]()
   [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]()
-
+  
 </h4>
 <br>
 
