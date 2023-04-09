@@ -1,22 +1,20 @@
 <img align="right" height="590em" src="#"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Carlos Eduardo</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Eduardolimacesl&color=blue" alt="Profile views" /> </p>
+<p align="left"> <img src="./assets/code.gif" alt="Profile views" /> </p>
 
 <h4 align="center">
 
-[![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/Eduardolimacesl)](https://www.facebook.com/)
-[![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/Eduardolimacesl)](https://www.instagram.com/)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/Eduardolimacesl)](https://linkedin.com/in/eduardo-lima-b0aa8642)
-[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC5Zh9bzMxSB5u0sUfkq03tw)
-[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]()
-[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]()
+  [![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/Eduardolimacesl)](https://www.facebook.com/)
+  [![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/Eduardolimacesl)](https://www.instagram.com/)
+  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/Eduardolimacesl)](https://linkedin.com/in/eduardo-lima-b0aa8642)
+  [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC5Zh9bzMxSB5u0sUfkq03tw)
+  [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]()
+  [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]()
 
 </h4>
-
-<br><br>
+<br>
 
 ## 🛠 &nbsp;Tech Stack
-
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -30,7 +28,6 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 
 ## ⚙️ &nbsp;GitHub Analytics
-
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eduardolimacesl&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eduardolimacesl&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Eduardolimacesl&theme=nord_dark) |
 | :-: | :-: | :-: |
 
