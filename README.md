@@ -1,4 +1,4 @@
-<div >
+<div>
   <img align="center" height="300em" src="./assets/code.gif"/>
 </div>
 <h1 align="left">Hi :wave:, I'm Carlos Eduardo</h1>
@@ -31,7 +31,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 
 ## ⚙️ &nbsp;GitHub Analytics
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eduardolimacesl&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eduardolimacesl&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Eduardolimacesl&theme=nord_dark) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eduardolimacesl&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Eduardolimacesl&theme=nord_dark) |
 | :-: | :-: | :-: |
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eduardolimacesl&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Eduardolimacesl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
