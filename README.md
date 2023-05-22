@@ -3,6 +3,10 @@
 <a href="https://app.daily.dev/eduardoLima"><img align="right" src="https://api.daily.dev/devcards/cc87e183f00b4822b1215e741c0fc639.png?r=ng3" width="250" alt="eduardoLima's Dev Card"/></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Eduardolimacesl&color=blue" alt="Profile views" /> </p>
 
+  - Civil Engineer
+  - Web developer
+  - BIM manager
+
 <h4 align="center">
 
   [![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/Eduardolimacesl)](https://www.facebook.com/eng.civil.eduardo/about)
@@ -34,7 +38,4 @@
 | :-: | :-: |
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eduardolimacesl&theme=nord_dark) |
-| :-: |
-
-| ![](https://github-readme-streak-stats.herokuapp.com/?user=Eduardolimacesl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
 | :-: |
