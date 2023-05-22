@@ -1,7 +1,6 @@
-<div>
-  <img align="center" height="300em" src="./assets/code.gif"/>
-</div>
+
 <h1 align="left">Hi :wave:, I'm Carlos Eduardo</h1>
+<a href="https://app.daily.dev/eduardoLima"><img align="right" src="https://api.daily.dev/devcards/cc87e183f00b4822b1215e741c0fc639.png?r=ng3" width="250" alt="eduardoLima's Dev Card"/></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Eduardolimacesl&color=blue" alt="Profile views" /> </p>
 
 <h4 align="center">
