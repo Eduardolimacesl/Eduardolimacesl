@@ -1,6 +1,6 @@
 
 <h1 align="left">Hi :wave:, I'm Carlos Eduardo</h1>
-<a href="https://app.daily.dev/eduardoLima"><img align="right" src="https://github.com/Eduardolimacesl/Eduardolimacesl/blob/main/devcard.svg" width="250" alt="eduardoLima's Dev Card"/></a>
+<a href="https://app.daily.dev/eduardoLima"><img align="right" src="https://github.com/Eduardolimacesl/Eduardolimacesl/blob/main/devcard.svg" width="300" alt="eduardoLima's Dev Card"/></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Eduardolimacesl&color=blue" alt="Profile views" /> </p>
 
   - Civil Engineer
