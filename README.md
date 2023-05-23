@@ -19,7 +19,9 @@
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/EduardoLimacesl)
 [![LinkTree Badge](https://img.shields.io/badge/linktree-39E09B?style=flat-square&logo=linktree&logoColor=white)](https://eduardolimacesl.github.io/devlinks/)
 
-### Glad to see you here! <img src="https://komarev.com/ghpvc/?username=Eduardolimacesl&color=blue" alt="Profile views" />
+<b><img src="https://komarev.com/ghpvc/?username=Eduardolimacesl&color=blue" alt="Profile views" /></b>
+## <picture><img src = "https://github.com/Eduardolimacesl/Eduardolimacesl/assets/about_me.gif" width = 50px></picture> **About me**
+### Glad to see you here! 
 
 <div>
   
@@ -66,3 +68,5 @@
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eduardolimacesl&theme=nord_dark) |
   | :-: |
 </div>
+
+--------------------------------------------------------------------
