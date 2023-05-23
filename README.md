@@ -1,5 +1,7 @@
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# Hi :wave:, I'm [Carlos Eduardo!](https://github.com/Eduardolimacesl/)
+# <b>Hi</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=35 />, I'm [Carlos Eduardo!](https://github.com/Eduardolimacesl/)
 <a href="https://app.daily.dev/eduardoLima">
   <img 
      align="right" 
@@ -17,17 +19,18 @@
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/EduardoLimacesl)
 [![LinkTree Badge](https://img.shields.io/badge/linktree-39E09B?style=flat-square&logo=linktree&logoColor=white)](https://eduardolimacesl.github.io/devlinks/)
 
-### Glad to see you here! &nbsp; <img src="https://komarev.com/ghpvc/?username=Eduardolimacesl&color=blue" alt="Profile views" />
+### Glad to see you here! <img src="https://komarev.com/ghpvc/?username=Eduardolimacesl&color=blue" alt="Profile views" />
 
 <div>
   
   - Civil Engineer
-  - Web developer
+  - A passionate Self-taught web developer
   - BIM manager
 
   <br>
 
-  ## 🛠 &nbsp;Tech Stack
+  ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
+  
   <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML"></code>
   <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"></code>
   <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" alt="Markdown"></code>
@@ -54,9 +57,12 @@
  
 </div>
 
-## ⚙️ &nbsp;GitHub Analytics
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eduardolimacesl&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Eduardolimacesl&theme=nord_dark) |
-| :-: | :-: |
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Analytics</b>
+<div align="center">
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eduardolimacesl&theme=nord_dark) |
-| :-: |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eduardolimacesl&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Eduardolimacesl&theme=nord_dark) |
+  | :-: | :-: |
+
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eduardolimacesl&theme=nord_dark) |
+  | :-: |
+</div>
