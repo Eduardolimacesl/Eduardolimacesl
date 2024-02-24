@@ -6,7 +6,7 @@
 <a href="https://app.daily.dev/eduardolima">
   <img 
      align="right" 
-     src="src=./devcard.png"
+     src="./devcard.png"
      width="300" 
      alt="eduardoLima's Dev Card"
    />
