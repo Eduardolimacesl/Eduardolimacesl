@@ -7,7 +7,7 @@
   <img 
      align="right" 
      src="./devcard.png"
-     width="300" 
+     width="356" 
      alt="eduardoLima's Dev Card"
    />
 </a>
