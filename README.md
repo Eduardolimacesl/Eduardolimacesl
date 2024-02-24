@@ -3,10 +3,10 @@
 
 # <b>Hi</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=35 />, I'm [Carlos Eduardo!](https://github.com/Eduardolimacesl/)
 
-<a href="https://app.daily.dev/eduardoLima">
+<a href="https://app.daily.dev/eduardolima">
   <img 
      align="right" 
-     src="https://github.com/Eduardolimacesl/Eduardolimacesl/blob/main/devcard.svg" 
+     src="src=./devcard.png"
      width="300" 
      alt="eduardoLima's Dev Card"
    />
