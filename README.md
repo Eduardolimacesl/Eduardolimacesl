@@ -18,7 +18,6 @@
       src="./devcard.png"
       width="280" 
       alt="eduardoLima's Dev Card"
-      style="float:right"
     />
   </a>
 
@@ -27,7 +26,6 @@
       src="https://app.rocketseat.com.br/api/rocketid/share?slug=eduardolimacesl&type=card" 
       width="280" 
       alt="Carlos Eduardo Silva Lima's Rocket ID"
-      style="float:left"
       />
   </a>
 </div>
