@@ -3,7 +3,8 @@
 
 # <b>Hi</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=35 />, I'm [Carlos Eduardo!](https://github.com/Eduardolimacesl/)
 
-<div style="vertical-align:middle; justify-content: space-between;">
+<div 
+  style="vertical-align:middle; justify-items: center; justify-content: space-between;">
   <a href="https://app.daily.dev/eduardolima">
     <img 
       src="./devcard.png"
