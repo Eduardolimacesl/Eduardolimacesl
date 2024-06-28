@@ -4,7 +4,15 @@
 # <b>Hi</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=35 />, I'm [Carlos Eduardo!](https://github.com/Eduardolimacesl/)
 
 <div 
-  style="vertical-align:middle; justify-items: center; justify-content: space-between;">
+  style="
+  display: grid;
+  vertical-align:middle; 
+  justify-items: center; 
+  justify-content: space-between;
+  grid-template-columns: 1fr 1fr;
+  justify-items: stretch;
+  content: center;
+  ">
   <a href="https://app.daily.dev/eduardolima">
     <img 
       src="./devcard.png"
