@@ -12,6 +12,8 @@
    />
 </a>
 
+<a href="https://app.rocketseat.com.br/me/eduardolimacesl"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=eduardolimacesl&type=card" width="280" alt="Carlos Eduardo Silva Lima's Rocket ID"/></a>
+
 [![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://github.com/Eduardolimacesl)](https://www.facebook.com/eng.civil.eduardo/about)
 [![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=flat-square&logo=instagram&logoColor=white&link=https://github.com/Eduardolimacesl)](https://www.instagram.com/carloseduardocesl/)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://github.com/Eduardolimacesl)](https://linkedin.com/in/eduardo-lima-b0aa8642)
