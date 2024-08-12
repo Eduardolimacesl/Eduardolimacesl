@@ -1,13 +1,34 @@
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# Hi :wave:, I'm [Carlos Eduardo!](https://github.com/Eduardolimacesl/)
-<a href="https://app.daily.dev/eduardoLima">
-  <img 
-     align="right" 
-     src="https://github.com/Eduardolimacesl/Eduardolimacesl/blob/main/devcard.svg" 
-     width="300" 
-     alt="eduardoLima's Dev Card"
-   />
-</a>
+# <b>Hi</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=35 />, I'm [Carlos Eduardo!](https://github.com/Eduardolimacesl/)
+
+<div 
+  style="
+  display: grid;
+  vertical-align:middle; 
+  justify-items: center; 
+  justify-content: space-between;
+  grid-template-columns: 1fr 1fr;
+  justify-items: stretch;
+  content: center;
+  ">
+  <a href="https://app.daily.dev/eduardolima">
+    <img 
+      src="./devcard.png"
+      width="280" 
+      alt="eduardoLima's Dev Card"
+    />
+  </a>
+
+  <a href="https://app.rocketseat.com.br/me/eduardolimacesl">
+    <img 
+      src="https://app.rocketseat.com.br/api/rocketid/share?slug=eduardolimacesl&type=card" 
+      width="280" 
+      alt="Carlos Eduardo Silva Lima's Rocket ID"
+      />
+  </a>
+</div>
 
 [![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://github.com/Eduardolimacesl)](https://www.facebook.com/eng.civil.eduardo/about)
 [![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=flat-square&logo=instagram&logoColor=white&link=https://github.com/Eduardolimacesl)](https://www.instagram.com/carloseduardocesl/)
@@ -17,46 +38,31 @@
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/EduardoLimacesl)
 [![LinkTree Badge](https://img.shields.io/badge/linktree-39E09B?style=flat-square&logo=linktree&logoColor=white)](https://eduardolimacesl.github.io/devlinks/)
 
-### Glad to see you here! &nbsp; <img src="https://komarev.com/ghpvc/?username=Eduardolimacesl&color=blue" alt="Profile views" />
+<b><img src="https://komarev.com/ghpvc/?username=Eduardolimacesl&color=blue" alt="Profile views" /></b>
 
-<div>
-  
-  - Civil Engineer
-  - Web developer
-  - BIM manager
+## <picture><img src="https://github.com/Eduardolimacesl/Eduardolimacesl/raw/main/assets/about_me.gif" style="visibility:visible;max-width:100%;" width = 50px></picture> **About me**
 
-  <br>
+- Civil Engineer
+- A passionate Self-taught web developer
+- BIM manager
+- BIM software developer
 
-  ## 🛠 &nbsp;Tech Stack
-  <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML"></code>
-  <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"></code>
-  <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" alt="Markdown"></code>
-  <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-  <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-  <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
-  <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
-  <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
-  <code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
-  <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-  <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+<br>
 
-  ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-  ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-  ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-  ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-  ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-  ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-  ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-  ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
- 
-</div>
+## <picture><img src="https://github.com/Eduardolimacesl/Eduardolimacesl/raw/main/assets/giphy.gif" style="visibility:visible;max-width:100%;" width = 50px></picture> **Tech Stack**
 
-## ⚙️ &nbsp;GitHub Analytics
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,markdown,python,javascript,ts,threejs,react,nextjs,nodejs,postgres,git,github,vscode,&theme=dark)](https://skillicons.dev)
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Analytics</b>
+
+<div align="center">
+
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eduardolimacesl&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Eduardolimacesl&theme=nord_dark) |
-| :-: | :-: |
+| :----------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------: |
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eduardolimacesl&theme=nord_dark) |
-| :-: |
+| :--------------------------------------------------------------------------------------------------------------------: |
+
+</div>
+
+---
